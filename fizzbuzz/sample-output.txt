@@ -1,0 +1,8 @@
+Case 1
+1
+Fizz
+Buzz
+Fizz
+5
+FizzBuzz
+7
